@@ -31,3 +31,4 @@ console.log(ArrayChallenge(readline()));
 
 // [6,4]
 // [12,2,6,7,11]
+// s
